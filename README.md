@@ -3,10 +3,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/targiroldo/)](https://www.linkedin.com/in/targiroldo/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/girordo/)](https://www.instagram.com/girordo/)
 
-- :🧑🏻‍💻: I’m currently working on [Softwrap](https://softwrap.com.br/) as a FullStack WebDeveloper
-- :🧑🏻‍🎓: Undergraduate in BsC Biomedical Informatics @ USP
-- :🐧: Linux enthusiast since 2004
-- :🐫: CamelCase pls
+- 🧑🏻‍💻 I’m currently working on [Softwrap](https://softwrap.com.br/) as a FullStack WebDeveloper
+- 🧑🏻‍🎓 Undergraduate in BsC Biomedical Informatics @ USP
+- 🐧 Linux enthusiast since 2004
+- 🐫 CamelCase pls
 <br/>
 
 <details>
