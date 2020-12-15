@@ -6,7 +6,7 @@
 - 🧑🏻‍💻 I’m currently working on [Softwrap](https://softwrap.com.br/) as a FullStack WebDeveloper
 - 🧑🏻‍🎓 Undergraduate in BsC Biomedical Informatics @ USP
 - 🐧 Linux enthusiast since 2004
-- 🐫 CamelCase pls
+- 🐫 camelCase pls
 <br/>
 
 <details>
