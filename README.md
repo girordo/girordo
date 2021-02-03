@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/girordo/)](https://www.instagram.com/girordo/)
 
 - 🧑🏻‍💻 I’m currently working on [Softwrap](https://softwrap.com.br/) as a FullStack WebDeveloper
-- 🧬 BsC Biomedical Informatics @ USP
+- 🧬 BSc Biomedical Informatics @ USP
 - 🐧 Linux enthusiast since 2004
 - 🐫 camelCase pls
 <br/>
