@@ -27,6 +27,7 @@
 <a href="https://prettier.io/" title="Prettier"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/prettier.svg" alt="Prettier" width="28px" height="28px"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="28px" height="28px"></a>
 <a href="https://ant.design/" title="Ant Design"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/ant-design.svg" alt="Ant Design" width="28px" height="28px"></a>
+<a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://symbols.getvecta.com/stencil_97/3_tailwind-css-icon.43c02f69bf.svg" alt="Tailwind CSS" width="28px" height="28px"></a>
 <a href="http://figma.com" title="Figma"><img src="https://camo.githubusercontent.com/9c25db6c8f2f83863c65be2cc47543020be957662831452aa5a7d6d81129f6fe/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6669676d612e737667" alt="Figma" width="28px" height="28px"></a>
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/adobe-photoshop.svg" alt="Adobe Photoshop" width="28px" height="28px"></a>
 <br/>
