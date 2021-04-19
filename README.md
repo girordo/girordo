@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/targiroldo/)](https://www.linkedin.com/in/targiroldo/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/girordo/)](https://www.instagram.com/girordo/)
 
-- 🧑🏻‍💻 I’m currently working on [Softwrap](https://softwrap.com.br/) as a FullStack WebDeveloper
+- 🧑🏻‍💻 I’m currently working at [Dasa](https://dasa.com.br/) as a Frontend Developer
 - 🧬 BSc Biomedical Informatics @ USP
 - 🐧 Linux enthusiast since 2004
 - 🐫 camelCase for variables, 🧮 PascalCase for components, 🥙 kebab-case for branches
