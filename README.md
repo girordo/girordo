@@ -3,6 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/targiroldo/)](https://www.linkedin.com/in/targiroldo/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/girordo/)](https://www.instagram.com/girordo/)
 
+<iframe src="https://giphy.com/embed/P5wPrhzZDdeJW" width="480" height="307" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/P5wPrhzZDdeJW">via GIPHY</a></p>
+
 - 🧑🏻‍💻 I’m currently working at [Dasa](https://dasa.com.br/) as a Frontend Developer
 - 🧬 BSc Biomedical Informatics @ USP
 - 🐧 Linux enthusiast since 2004
