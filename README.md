@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/targiroldo/)](https://www.linkedin.com/in/targiroldo/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/girordo/)](https://www.instagram.com/girordo/)
 
-<img src="https://giphy.com/embed/P5wPrhzZDdeJW" alt="No names man" />
+<img src="https://media.giphy.com/media/P5wPrhzZDdeJW/giphy.gif" alt="No names man" />
 
 - 🧑🏻‍💻 I’m currently working at [Dasa](https://dasa.com.br/) as a Frontend Developer
 - 🧬 BSc Biomedical Informatics @ USP
