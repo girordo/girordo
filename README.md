@@ -5,10 +5,10 @@
 
 <img src="https://media.giphy.com/media/P5wPrhzZDdeJW/giphy.gif" alt="No names man" />
 
-- 🧑🏻‍💻 I’m currently working at [Dasa](https://dasa.com.br/) as a Frontend Developer
-- 🧬 BSc Biomedical Informatics @ USP
-- 🐧 Linux enthusiast since 2004
-- 🐫 camelCase for variables, 🧮 PascalCase for components, 🥙 kebab-case for branches
+• 🧑🏻‍💻 I’m currently working at [Dasa](https://dasa.com.br/) as a Frontend Developer
+• 🧬 BSc Biomedical Informatics @ USP
+• 🐧 Linux enthusiast since 2004
+• 🐫 camelCase for variables, 🧮 PascalCase for components, 🥙 kebab-case for branches
 <br/>
 
 **💻 What I use for work 🧰**
