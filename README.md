@@ -5,9 +5,9 @@
 
 <img src="https://media.giphy.com/media/P5wPrhzZDdeJW/giphy.gif" alt="No names man" />
 
-• 🧑🏻‍💻 I’m currently working at [Dasa](https://dasa.com.br/) as a Frontend Developer
-• 🧬 BSc Biomedical Informatics @ USP
-• 🐧 Linux enthusiast since 2004
+• 🧑🏻‍💻 I’m currently working at [Dasa](https://dasa.com.br/) as a Frontend Developer <br/>
+• 🧬 BSc Biomedical Informatics @ USP <br/>
+• 🐧 Linux enthusiast since 2004 <br/>
 • 🐫 camelCase for variables, 🧮 PascalCase for components, 🥙 kebab-case for branches
 <br/>
 
