@@ -34,15 +34,6 @@
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/girordo/geticon/blob/master/logos/adobe-photoshop.svg" alt="Adobe Photoshop" width="28px" height="28px"></a>
 <br/>
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=girordo&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
-</details>
 
-<details>
-  <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girordo&layout=compact&bg_color=ffffff&text_color=333333">
-</details>
-<br/>
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/girordo)](https://github.com/girordo)
