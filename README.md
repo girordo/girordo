@@ -3,7 +3,7 @@
   <p style= font-size:40px;>𝖂𝖊𝖑𝖈𝖔𝖒𝖊</p>
 </section>
 
-![https://twitter.com/girordo_](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white
+![https://twitter.com/girordo_](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)
 ![https://www.linkedin.com/in/targiroldo/](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)
 
 # 𝕬𝖇𝖔𝖚𝖙
@@ -16,8 +16,8 @@
 
 # 𝕿𝖊𝖈𝖍𝖓𝖔𝖑𝖔𝖌𝖎𝖊𝖘
 
-![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=html5&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
