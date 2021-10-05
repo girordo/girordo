@@ -2,11 +2,9 @@
 
   <img src="https://media.giphy.com/media/P5wPrhzZDdeJW/giphy.gif" alt="No names man" />
 
-  <p style= font-size:40px;>𝖂𝖊𝖑𝖈𝖔𝖒𝖊</p>
-  
-  ![https://twitter.com/girordo_](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)
-  ![https://www.linkedin.com/in/targiroldo/](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)
-  
+![https://twitter.com/girordo_](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)
+![https://www.linkedin.com/in/targiroldo/](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)
+
 </section>
 
 # 𝕬𝖇𝖔𝖚𝖙
