@@ -17,7 +17,7 @@
 
 # 𝕿𝖊𝖈𝖍𝖓𝖔𝖑𝖔𝖌𝖎𝖊𝖘
 
-<section align="center">
+<section>
 
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
@@ -29,7 +29,7 @@
 
 </section>
 
-<section align="center">
+<section>
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/girordo)](https://github.com/girordo)
 
