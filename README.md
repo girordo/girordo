@@ -1,6 +1,6 @@
 <section align="center">
 
-<img src="https://media.giphy.com/media/P5wPrhzZDdeJW/giphy.gif" alt="No names man" style=margin-bottom: 20px;/>
+<img src="https://media.giphy.com/media/P5wPrhzZDdeJW/giphy.gif" alt="No names man"/>
 
 ![https://twitter.com/girordo_](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)
 ![https://www.linkedin.com/in/targiroldo/](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -29,8 +29,8 @@
 
 </section>
 
-<footer align="center">
+<section align="center">
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/girordo)](https://github.com/girordo)
 
-</footer>
+</section>
