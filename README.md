@@ -1,6 +1,6 @@
 <section align="center">
 
-  <img src="https://media.giphy.com/media/P5wPrhzZDdeJW/giphy.gif" alt="No names man" />
+<img src="https://media.giphy.com/media/P5wPrhzZDdeJW/giphy.gif" alt="No names man" style=margin-bottom: 20px/>
 
 ![https://twitter.com/girordo_](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)
 ![https://www.linkedin.com/in/targiroldo/](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -17,6 +17,8 @@
 
 # 𝕿𝖊𝖈𝖍𝖓𝖔𝖑𝖔𝖌𝖎𝖊𝖘
 
+<section align="center">
+
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,4 +27,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visual-studio-code)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/girordo)](https://github.com/girordo)
+</section>
+
+<footer align="center">
+  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/girordo)](https://github.com/girordo)
+</footer>
