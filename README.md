@@ -1,10 +1,13 @@
 <section align="center">
-  <img src="https://media.giphy.com/media/P5wPrhzZDdeJW/giphy.gif" alt="No names man" />
-  <p style= font-size:40px;>𝖂𝖊𝖑𝖈𝖔𝖒𝖊</p>
-</section>
 
-![https://twitter.com/girordo_](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)
-![https://www.linkedin.com/in/targiroldo/](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)
+  <img src="https://media.giphy.com/media/P5wPrhzZDdeJW/giphy.gif" alt="No names man" />
+
+  <p style= font-size:40px;>𝖂𝖊𝖑𝖈𝖔𝖒𝖊</p>
+  
+  ![https://twitter.com/girordo_](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)
+  ![https://www.linkedin.com/in/targiroldo/](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)
+  
+</section>
 
 # 𝕬𝖇𝖔𝖚𝖙
 
@@ -21,7 +24,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visual-studio-code)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/girordo)](https://github.com/girordo)
