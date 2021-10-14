@@ -9,7 +9,7 @@
 
 # 𝕬𝖇𝖔𝖚𝖙
 
-• 🧑🏻‍💻 I’m currently working at [Dasa](https://dasa.com.br/) as a Frontend Developer <br/>
+• 🧑🏻‍💻 I’m currently working at [Dasa](https://dasa.com.br/) as a Frontend Engineer <br/>
 • 🧬 BSc Biomedical Informatics @ USP <br/>
 • 🐧 Linux enthusiast since 2004 <br/>
 • 🐫 camelCase for variables, 🧮 PascalCase for components, 🥙 kebab-case for branches
