@@ -2,10 +2,8 @@
 
 <img src="https://media.giphy.com/media/P5wPrhzZDdeJW/giphy.gif" alt="No names man"/>
 
-<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white">
-  <a href="https://twitter.com/girordo_" />  
-</img>
-![https://www.linkedin.com/in/targiroldo/](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Twitter](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/girordo_)
+[![Linkedin](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com.br/targiroldo)
 
 </section>
 
