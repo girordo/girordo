@@ -2,8 +2,8 @@
 
 <img src="https://media.giphy.com/media/P5wPrhzZDdeJW/giphy.gif" alt="No names man"/>
 
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/girordo_){target="_blank"}
-[![Linkedin](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/targiroldo/){target="_blank"}
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/girordo_)
+[![Linkedin](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/targiroldo/)
   
 </section>
 
@@ -19,7 +19,7 @@
 
 <section>
 
-[![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.info/){target="_blank"}
+[![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.info/)
 ![https://reactjs.org/](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white)
