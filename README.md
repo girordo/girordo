@@ -20,12 +20,12 @@
 <section>
 
 [![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.info/)
-![https://reactjs.org/](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
+[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white)
-![https://git-scm.com/](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![http://github.com/](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
-![https://code.visualstudio.com/](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visual-studio-code)
+[![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)](https://git-scm.com/)
+[![Github](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](http://github.com/)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
 
 </section>
 
