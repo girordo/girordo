@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/P5wPrhzZDdeJW/giphy.gif" alt="No names man"/>
 
-![https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white](https://twitter.com/girordo_)
+[https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white](https://twitter.com/girordo_)
 ![https://www.linkedin.com/in/targiroldo/](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)
 
 </section>
