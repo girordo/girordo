@@ -19,6 +19,7 @@
 <section>
 
 [![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.info/)
+[![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white)
