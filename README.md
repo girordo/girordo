@@ -10,7 +10,7 @@
 # 𝕬𝖇𝖔𝖚𝖙
 
 • 🧑🏻‍💻 I'm currently working at [Dasa](https://dasa.com.br/) as Frontend Engineer <br/>
-• 🧬 BSc Biomedical Informatics@Universide de São Paulo <br/>
+• 🧬 BSc Biomedical Informatics@Universidade de São Paulo <br/>
 • 🐧 Linux enthusiast since 2004
 
 <br/>
