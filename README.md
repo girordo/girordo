@@ -9,9 +9,12 @@
 
 # 𝕬𝖇𝖔𝖚𝖙
 
-• 🧑🏻‍💻 I'm currently working at [Dasa](https://dasa.com.br/) as Frontend Engineer <br/>
-• 🧬 BSc Biomedical Informatics@Universidade de São Paulo <br/>
+• 🧑🏻‍💻 I’m currently working at Dasa as a Frontend Engineer
+• 🧬 BSc Biomedical Informatics @ USP
 • 🐧 Linux enthusiast since 2004
+• ⚛️ Frontend experience with React and React Native for mobile
+• 🛤️ Railway to Full Stack with NestJS and Express
+• 🏗️ Focusing in microservices architecture and TDD
 
 <br/>
 
