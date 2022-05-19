@@ -9,11 +9,11 @@
 
 # 𝕬𝖇𝖔𝖚𝖙
 
-• 🧑🏻‍💻 I’m currently working at Dasa as a Frontend Engineer
-• 🧬 BSc Biomedical Informatics @ USP
-• 🐧 Linux enthusiast since 2004
-• ⚛️ Frontend experience with React and React Native for mobile
-• 🛤️ Railway to Full Stack with NestJS and Express
+• 🧑🏻‍💻 I’m currently working at Dasa as a Frontend Engineer<br/>
+• 🧬 BSc Biomedical Informatics @ USP<br/>
+• 🐧 Linux enthusiast since 2004<br/>
+• ⚛️ Frontend experience with React and React Native for mobile<br/>
+• 🛤️ Railway to Full Stack with NestJS and Express<br/>
 • 🏗️ Focusing in microservices architecture and TDD
 
 <br/>
