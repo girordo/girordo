@@ -28,6 +28,8 @@
 [![Next.JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![NestJS](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![JWT](https://img.shields.io/badge/jwt-black?style=for-the-badge&logo=jwt&logoColor=white)](https://jwt.io/)
+[![Swagger](https://img.shields.io/badge/swagger-black?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)  
