@@ -20,7 +20,7 @@
 
 # 𝕿𝖊𝖈𝖍𝖓𝖔𝖑𝖔𝖌𝖎𝖊𝖘
 
-<section>
+<section align="center">
 
 [![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.info/)
 [![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
