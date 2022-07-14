@@ -9,7 +9,7 @@
 
 # 𝕬𝖇𝖔𝖚𝖙
 
-• 🧑🏻‍💻 I’m currently working at Dasa as a Frontend Engineer<br/>
+• 🧑🏻‍💻 I’m currently working at Spocket as a Frontend Engineer<br/>
 • 🧬 BSc Biomedical Informatics @ USP<br/>
 • 🐧 Linux enthusiast since 2004<br/>
 • ⚛️ Frontend experience with React and React Native for mobile<br/>
