@@ -13,8 +13,9 @@
 • 🧬 BSc Biomedical Informatics @ USP<br/>
 • 🐧 Linux enthusiast since 2004<br/>
 • ⚛️ Frontend experience with React and React Native for mobile<br/>
-• 🛤️ Railway to Full Stack with NestJS and Express<br/>
-• 🏗️ Focusing in microservices architecture and TDD
+• 🎛️ Backend experience with NestJS and Express<br/>
+• 💧 Studying Elixir to work in a year with<br/>
+• 🏗️ DDD, TDD and microservices architectures
 
 <br/>
 
@@ -28,7 +29,7 @@
 [![Next.JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![NestJS](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![JWT](https://img.shields.io/badge/jwt-black?style=for-the-badge&logo=jwt&logoColor=white)](https://jwt.io/)
+[![Elixir](https://img.shields.io/badge/elixir-black?style=for-the-badge&logo=elixir&logoColor=white)](https://elixir-lang.org/)
 [![Swagger](https://img.shields.io/badge/swagger-black?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white)
