@@ -11,7 +11,7 @@
   
   # 𝕬𝖇𝖔𝖚𝖙
   
-  <section align="left">
+  <p align="left">
     I'm a frontend engineer with experience across several types of business.
 
     I hold a BSc in Biomedical Informatics at Universidade de São Paulo
@@ -27,7 +27,7 @@
     Worked with PostgreSQL, MongoDB and Firebase databases and worked with GCP and AWS.
 
     I am a communicative and empathetic person
-  </section>
+  </p>
 </section>
 
 <br/>
