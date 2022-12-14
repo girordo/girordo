@@ -10,6 +10,7 @@
 <section align="center">
   
   # 𝕬𝖇𝖔𝖚𝖙
+    Hi! 
   
     I'm a frontend engineer with experience across several types of business.
 
