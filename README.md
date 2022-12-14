@@ -8,23 +8,26 @@
 </section>
 
 <section align="center">
+  
   # 𝕬𝖇𝖔𝖚𝖙
   
-  I'm a frontend engineer with experience across several types of business.
-  
-  I hold a BSc in Biomedical Informatics at Universidade de São Paulo
-  I'm a constant learner, right now I'm learning Elixir and Phoenix for curiosity in functional programming.
-  
-  I'm a Linux open sourcerer since 2004
-  
-  I've experience in frontend using React and all ecosystem (Native, Next.js, Redux, Context API, Jest, RTL) and
-  in backend I appreciate work with NestJS and Express, both in monolithic and microservices context.
-  
-  I also have experience in DDD, TDD, SOLID and BFF.
-  
-  Worked with PostgreSQL, MongoDB and Firebase databases and worked with GCP and AWS.
-  
-  I am a communicative and empathetic person
+  <section align="left">
+    I'm a frontend engineer with experience across several types of business.
+
+    I hold a BSc in Biomedical Informatics at Universidade de São Paulo
+    I'm a constant learner, right now I'm learning Elixir and Phoenix for curiosity in functional programming.
+
+    I'm a Linux open sourcerer since 2004
+
+    I've experience in frontend using React and all ecosystem (Native, Next.js, Redux, Context API, Jest, RTL) and
+    in backend I appreciate work with NestJS and Express, both in monolithic and microservices context.
+
+    I also have experience in DDD, TDD, SOLID and BFF.
+
+    Worked with PostgreSQL, MongoDB and Firebase databases and worked with GCP and AWS.
+
+    I am a communicative and empathetic person
+  </section>
 </section>
 
 <br/>
