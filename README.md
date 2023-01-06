@@ -16,7 +16,7 @@
     I hold a BSc in Biomedical Informatics at Universidade de São Paulo
 
     I'm a constant learner, right now I'm learning Elixir and Phoenix for curiosity in functional programming.
-    I am a communicative and empathetic person
+    I am a communicative and empathic person
 
     I'm a Linux open sourcerer since 2004
 
