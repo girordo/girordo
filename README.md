@@ -39,6 +39,7 @@
   [![NestJS](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
   [![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
   [![Elixir](https://img.shields.io/badge/elixir-black?style=for-the-badge&logo=elixir&logoColor=white)](https://elixir-lang.org/)
+  [![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=ruts&logoColor=white)](https://rust-lang.org/)
   [![Swagger](https://img.shields.io/badge/swagger-black?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
   ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white)
