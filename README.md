@@ -46,9 +46,3 @@
   [![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
 
 </section>
-
-<section>
-
-  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/girordo)](https://github.com/girordo)
-
-</section>
