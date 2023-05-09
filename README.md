@@ -1,4 +1,4 @@
-<section align="center">
+<section>
 
 <img src="https://media.giphy.com/media/P5wPrhzZDdeJW/giphy.gif" alt="No names man"/>
 
@@ -7,9 +7,8 @@
   
 </section>
 
-<section align="center">
-  
-  # 𝕬𝖇𝖔𝖚𝖙
+# 𝕬𝖇𝖔𝖚𝖙
+<section>  
     Hi! 
     Frontend engineer with experience across several types of business.
     I hold a BSc in Biomedical Informatics at Universidade de São Paulo.
@@ -18,13 +17,9 @@
     I am a communicative and empathetic person.
     I'm a Linux open sourcerer since 2004.
 </section>
-
 <br/>
-
+# 𝕿𝖊𝖈𝖍𝖓𝖔𝖑𝖔𝖌𝖎𝖊𝖘
 <section align="center">
-  
-  # 𝕿𝖊𝖈𝖍𝖓𝖔𝖑𝖔𝖌𝖎𝖊𝖘
-
   [![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.info/)
   [![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
   [![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
@@ -40,11 +35,4 @@
   [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
   [![Github](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](http://github.com/)
   [![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
-
-</section>
-
-<section>
-
-  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/girordo)](https://github.com/girordo)
-
 </section>
