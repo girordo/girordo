@@ -14,11 +14,10 @@
     Hi! 
     Frontend engineer with experience across several types of business.
     I hold a BSc in Biomedical Informatics at Universidade de São Paulo.
-    I've experience in frontend using React and all ecosystem (Native, Next.js, Redux and RTK, Context API, Jest, RTL)
-    On backend I appreciate work with NestJS and Express, both in monolithic and microservices context.
+    I've experience on frontend using React and all ecosystem.
+    On backend I appreciate work with NestJS, Fastify and Express.
     I'm a constant learner, right now I'm learning Elixir and Phoenix.
-    I have an intention to work with these two technologies in a few years.
-    I am a communicative and empathetic person.
+    I am a communicative and empathic person.
     I'm a Linux open sourcerer since 2004.
   
 </section>
