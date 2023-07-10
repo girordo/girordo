@@ -11,14 +11,10 @@
   
   # 𝕬𝖇𝖔𝖚𝖙
   
-    Hi! 
-    Frontend engineer with experience across several types of business.
-    I hold a BSc in Biomedical Informatics at Universidade de São Paulo.
-    I've experience on frontend using React and all ecosystem.
-    On backend I appreciate work with NestJS, Fastify and Express.
-    I'm a constant learner, right now I'm learning Elixir and Phoenix.
-    I am a communicative and empathic person.
-    I'm a Linux open sourcerer since 2004.
+  About
+  Software engineer, empathic, communicative, open sourcerer since 2004, and constant learner.
+  I am focused on the frontend using React and its ecosystem, with experience across several types of business.
+  I hold a BSc in Biomedical Informatics at Universidade de São Paulo. Working on backends for fun, I appreciate working with NestJS, Fastify, and Phoenix. Learning Rust for educational and curiosity purposes.
   
 </section>
 
