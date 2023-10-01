@@ -8,6 +8,7 @@
 </section>
 
 <section align="center">
+  
   # 𝕬𝖇𝖔𝖚𝖙
   
     Software engineer, empathic, communicative, open sourcerer since 2004, and constant learner.
