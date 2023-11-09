@@ -8,7 +8,7 @@
 
 <section align="center">
   
-   About
+   # About
   
     Software engineer, empathic, communicative, open sourcerer since 2004, and constant learner.
     I'm working on the frontend using React and its ecosystem,  with experience across several types of business.
@@ -22,7 +22,7 @@
 
 <section align="center">
   
-   Technologies
+  # Technologies
 
   [![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.info/)
   [![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
