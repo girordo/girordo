@@ -30,6 +30,5 @@
   [![Elixir](https://img.shields.io/badge/elixir-black?style=for-the-badge&logo=elixir&logoColor=white)](https://elixir-lang.org/)
   [![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.org/)
   [![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)  
-  [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
   
 </section>
